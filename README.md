@@ -30,3 +30,6 @@ This project suggests 4 types to help users choose moves that will do the most d
 These moves are known as "coverage."
 
 ![Input file img](/images/1-input_file.png)
+
+[Poke_coverage main](poke_coverage_v6.py)
+[Poke_coverage functions](poke_functions_v6.py)
