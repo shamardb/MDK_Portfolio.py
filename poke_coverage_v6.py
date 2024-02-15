@@ -1,16 +1,27 @@
 #!/usr/bin/env python
 
 __author__ = 'Shamar D. Brown'
-__version__ = '5.2'
+__version__ = '6.0'
 
 import sys
 from poke_functions_v6 import (Pkmn, import_poke_input_file, generate_type_combos, generate_combo_dicts, type_counts,
                                  get_combo_difference, get_coverage, join_coverage, print_coverage)
 
 '''
-This project suggests 4 types to help users choose moves 
-  that will do the most damage to the most type combinations. 
-These moves are known as "coverage."
+DESCRIPTION:
+    In the game of Pokémon, a Pokémon can be one or two of 18 unique types. This is their type combination.
+     - There are 306/324 possible type combinations currently in use.
+     - Each Pokémon can attack with up to four moves.
+     - Each move can be any type in the attackers move pool.
+     - When Pokémon attack using a move of the same type, they get a "Same-type attack bonus" or STAB, where (1.5)*DAMAGE is dealt.
+     - Attack types can:
+         - Be Super-effective (2.0 or 4.0*DAMAGE)
+         - Be Resisted or 'Not very-effective' (0.5 or 0.25*DAMAGE)
+         - Be an Immunity or Have 'no effect' (0*DAMAGE)
+    
+    This project suggests 4 types to help users choose moves 
+      that will do the most damage to the most type combinations. 
+    These moves are known as "coverage."
 '''
 
 

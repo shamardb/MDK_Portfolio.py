@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
 __author__ = 'Shamar D. Brown'
-__version__ = '5.2'
+__version__ = '6.0'
 
 import sys
 
 '''
-OBECTIVE:
+DESCRIPTION:
     - functions for "poke_coverage" script
 
 FUNCTIONS:
