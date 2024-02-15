@@ -1,0 +1,17 @@
+fighting steel
+normal psychic
+ground ice
+dragon
+fairy dark
+fire grass
+---------------
+
+ - Build your team on the first 6 lines (before the '---')
+ - copy & paste from the types below
+ - 1-2 types per line; single space separated
+
+normal   fire   water   electric   grass   ice
+
+fighting   poison   ground   flying   psychic
+
+bug   rock   ghost   dragon   dark   steel   fairy
