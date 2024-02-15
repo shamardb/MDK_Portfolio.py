@@ -10,7 +10,7 @@ DESCRIPTION:
     - functions for "poke_coverage" script
 
 FUNCTIONS:
-from poke_functions_v5_2 import (Pkmn, import_poke_input_file, generate_type_combos, generate_pkmn_stats,
+from poke_functions_v6 import (Pkmn, import_poke_input_file, generate_type_combos, generate_pkmn_stats,
                                  generate_combo_dicts, combo_print, type_counts, coverage_calcs, get_combo_difference,
                                  get_coverage, join_coverage, print_coverage)
 '''
