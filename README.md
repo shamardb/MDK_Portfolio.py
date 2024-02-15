@@ -1,14 +1,14 @@
 # SDB_Portfolio
 
-#### Hi! I'm Shamar. I began my career as a Network Engineer, in 2015. Configuration of switches, routers, phones, Wireless Access points (and more) was the bulk of the job. Before that I was considered as the 'do-it-all' field IT admin for my Va Army National Guard units. I enojyed the congifguration process because it reminded me of my failed attempts to learn to code. The more I progressed in my carrer, the more automating tasks became a necessity. Eventually, automation became my favorite part of the job. Now, I am on a quest to transition from Network Engineering to Software Engineering. Here is a brief overview of my journey to get there!
+#### <ins>_About Me:_</ins>  Hi! I'm Shamar. I began my career as a Network Engineer, in 2015. Configuration of switches, routers, phones, Wireless Access points (and more) was the bulk of the job. Before that I was considered as the 'do-it-all' field IT admin for my Va Army National Guard units. I enojyed the congifguration process because it reminded me of my failed attempts to learn to code. The more I progressed in my carrer, the more automating tasks became a necessity. Eventually, automation became my favorite part of the job. Now, I am on a quest to transition from Network Engineering to Software Engineering. Here is a brief overview of my journey to get there!
 
-#### Technical skills: Cisco products & devices, Microsoft Office, Python, Powershell, Bash
+#### <ins>_Technical skills:_</ins>  Cisco products & devices, Microsoft Office, Python, Powershell, Bash
 
 ## Network Automation Experience 
-- Senior Network Engineer @ Digital Realty (_April - _June 2023)
-- Senior Network Engineer @ Verizon Business Group - MNSO (_March 2022 - _April 2023)
-- Senior Network Engineer @ Defense Logistics Agency  (_December 2021 - _March 2022)
-- Network Engineer @ Dept. of the Army; Defense Supply Center Richmond (DSCR) -  (_October 2019 - _December 2021)
+- Senior Network Engineer @ Digital Realty (_April - June 2023_)
+- Senior Network Engineer @ Verizon Operational Security Systems (OSS) - Infrastructure (_March 2022 - April 2023_)
+- Senior Network Engineer @ Defense Logistics Agency  (_December 2021 - March 2022_)
+- Network Engineer @ Dept. of the Army; Defense Supply Center Richmond (DSCR) -  (_October 2019 - December 2021_)
 
 
 ## Projects
