@@ -19,7 +19,7 @@
 In the game of Pokemon, a pokemon can be one or two of 18 unique types. This is their type combination.
 This project suggests 4 types to help users choose moves that will do the most damage to the most type combinations not covered by stab types. These moves are known as "coverage."
 
-![Input file img](/images/1-input_file.png)
+![Collage](/images/poke_coverage_collage.jpg)
 
 [Poke_coverage main](poke_coverage_v6.py)    
 [Poke_coverage functions](poke_functions_v6.py)
