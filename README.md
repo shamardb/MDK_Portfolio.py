@@ -1,6 +1,6 @@
 # SDB_Portfolio
 
-#### <ins>_About Me:_</ins>  Hi! I'm Shamar. I began my career as a Network Engineer, in 2015. Configuration of switches, routers, phones, Wireless Access points (and more) was the bulk of the job. Before that I was considered as the 'do-it-all' field IT admin for my Va Army National Guard units. I enojyed the congifguration process because it reminded me of my failed attempts to learn to code. The more I progressed in my carrer, the more automating tasks became a necessity. Eventually, automation became my favorite part of the job. Now, I am on a quest to transition from Network Engineering to Software Engineering. Here is a brief overview of my journey to get there!
+#### <ins>_About Me:_</ins>  Hi! I'm Shamar. I began my career as a Network Engineer, in 2015. Configuration of switches, routers, VoIP phones, Wireless Access points (and more) was the bulk of the job. Before that I was considered as the 'do-it-all' field IT admin for my Va Army National Guard units. I enojyed the congifguration process because it reminded me of my failed attempts to learn to code. The more I progressed in my carrer, the more automating tasks became a necessity. Eventually, automation became my favorite part of the job. Now, I am on a quest to transition from Network Engineering to Software Engineering. Here is a brief overview of my journey to get there!
 
 #### <ins>_Technical skills:_</ins>  Cisco products & devices, Microsoft Office, Python, Powershell, Bash
 
